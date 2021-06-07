@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{753724A2-9CEA-44DC-9E62-BAD9E4977341}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>BIBLIOTECA.My.MyApplication</StartupObject>
+    <RootNamespace>BIBLIOTECA</RootNamespace>
+    <AssemblyName>BIBLIOTECA</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>BIBLIOTECA.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>BIBLIOTECA.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="boleta.Designer.vb">
+      <DependentUpon>boleta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="boleta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cantidadlibros.Designer.vb">
+      <DependentUpon>cantidadlibros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cantidadlibros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cantidadprestamo.Designer.vb">
+      <DependentUpon>cantidadprestamo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cantidadprestamo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularioinicio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formularioinicio.Designer.vb">
+      <DependentUpon>formularioinicio.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lector.Designer.vb">
+      <DependentUpon>lector.vb</DependentUpon>
+    </Compile>
+    <Compile Include="lector.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="libros.Designer.vb">
+      <DependentUpon>libros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="libros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="libro_disponible.Designer.vb">
+      <DependentUpon>libro_disponible.vb</DependentUpon>
+    </Compile>
+    <Compile Include="libro_disponible.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="libro_donado.Designer.vb">
+      <DependentUpon>libro_donado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="libro_donado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="personal.Designer.vb">
+      <DependentUpon>personal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="personal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="personalactivo.Designer.vb">
+      <DependentUpon>personalactivo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="personalactivo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="personamora.Designer.vb">
+      <DependentUpon>personamora.vb</DependentUpon>
+    </Compile>
+    <Compile Include="personamora.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="prestamo.Designer.vb">
+      <DependentUpon>prestamo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="prestamo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="validacion.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="boleta.resx">
+      <DependentUpon>boleta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cantidadlibros.resx">
+      <DependentUpon>cantidadlibros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cantidadprestamo.resx">
+      <DependentUpon>cantidadprestamo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formularioinicio.resx">
+      <DependentUpon>formularioinicio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lector.resx">
+      <DependentUpon>lector.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="libros.resx">
+      <DependentUpon>libros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="libro_disponible.resx">
+      <DependentUpon>libro_disponible.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="libro_donado.resx">
+      <DependentUpon>libro_donado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="personal.resx">
+      <DependentUpon>personal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="personalactivo.resx">
+      <DependentUpon>personalactivo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="personamora.resx">
+      <DependentUpon>personamora.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="prestamo.resx">
+      <DependentUpon>prestamo.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\libros.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ed.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ind.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\45206.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\108524.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\64491.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\108528.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\libr.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gettyimages-486813264-2048x2048.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\índiceee.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4k.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fddf.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\actions_document_print_preview_15786.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apps_printer_15747.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

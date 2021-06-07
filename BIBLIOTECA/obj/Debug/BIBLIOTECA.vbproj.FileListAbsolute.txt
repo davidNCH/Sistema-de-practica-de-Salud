@@ -1,0 +1,207 @@
+E:\PHP\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.exe.config
+E:\PHP\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.exe
+E:\PHP\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.pdb
+E:\PHP\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.xml
+E:\PHP\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.formularioinicio.resources
+E:\PHP\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.lector.resources
+E:\PHP\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.libros.resources
+E:\PHP\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.Resources.resources
+E:\PHP\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.personal.resources
+E:\PHP\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.prestamo.resources
+E:\PHP\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.vbproj.GenerateResource.Cache
+E:\PHP\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.exe
+E:\PHP\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.xml
+E:\PHP\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb
+C:\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.exe.config
+C:\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.xml
+C:\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb
+C:\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.exe
+C:\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.pdb
+C:\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.xml
+C:\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.formularioinicio.resources
+C:\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.lector.resources
+C:\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.libros.resources
+C:\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.Resources.resources
+C:\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.personal.resources
+C:\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.prestamo.resources
+C:\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.vbproj.GenerateResource.Cache
+C:\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.exe
+E:\VISUAL STUDIO\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.exe.config
+E:\VISUAL STUDIO\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.exe
+E:\VISUAL STUDIO\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.xml
+E:\VISUAL STUDIO\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb
+E:\VISUAL STUDIO\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.exe
+E:\VISUAL STUDIO\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.pdb
+E:\VISUAL STUDIO\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.xml
+E:\VISUAL STUDIO\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.formularioinicio.resources
+E:\VISUAL STUDIO\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.lector.resources
+E:\VISUAL STUDIO\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.libros.resources
+E:\VISUAL STUDIO\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.Resources.resources
+E:\VISUAL STUDIO\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.personal.resources
+E:\VISUAL STUDIO\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.prestamo.resources
+E:\VISUAL STUDIO\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.vbproj.GenerateResource.Cache
+C:\proyecto\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.exe.config
+C:\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.exe
+C:\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.xml
+C:\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb
+C:\proyecto\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.exe
+C:\proyecto\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.pdb
+C:\proyecto\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.xml
+C:\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.formularioinicio.resources
+C:\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.lector.resources
+C:\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.libros.resources
+C:\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.Resources.resources
+C:\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.personal.resources
+C:\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.prestamo.resources
+C:\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.vbproj.GenerateResource.Cache
+C:\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.personamora.resources
+E:\VISUAL STUDIO\proyecto\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.exe.config
+E:\VISUAL STUDIO\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.exe
+E:\VISUAL STUDIO\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.xml
+E:\VISUAL STUDIO\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb
+E:\VISUAL STUDIO\proyecto\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.exe
+E:\VISUAL STUDIO\proyecto\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.pdb
+E:\VISUAL STUDIO\proyecto\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.xml
+E:\VISUAL STUDIO\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.formularioinicio.resources
+E:\VISUAL STUDIO\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.lector.resources
+E:\VISUAL STUDIO\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.libros.resources
+E:\VISUAL STUDIO\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.Resources.resources
+E:\VISUAL STUDIO\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.personal.resources
+E:\VISUAL STUDIO\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.personamora.resources
+E:\VISUAL STUDIO\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.prestamo.resources
+E:\VISUAL STUDIO\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.vbproj.GenerateResource.Cache
+C:\CDNCH\proyecto\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.exe.config
+C:\CDNCH\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.exe
+C:\CDNCH\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.xml
+C:\CDNCH\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb
+C:\CDNCH\proyecto\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.exe
+C:\CDNCH\proyecto\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.pdb
+C:\CDNCH\proyecto\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.xml
+C:\CDNCH\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.formularioinicio.resources
+C:\CDNCH\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.lector.resources
+C:\CDNCH\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.libros.resources
+C:\CDNCH\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.Resources.resources
+C:\CDNCH\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.personal.resources
+C:\CDNCH\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.personamora.resources
+C:\CDNCH\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.prestamo.resources
+C:\CDNCH\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.vbproj.GenerateResource.Cache
+C:\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.exe.config
+C:\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.exe
+C:\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.xml
+C:\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb
+C:\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.exe
+C:\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.pdb
+C:\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.xml
+C:\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.formularioinicio.resources
+C:\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.lector.resources
+C:\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.libros.resources
+C:\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.libro_disponible.resources
+C:\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.Resources.resources
+C:\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.personal.resources
+C:\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.personamora.resources
+C:\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.prestamo.resources
+C:\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.vbproj.GenerateResource.Cache
+C:\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.libro_donado.resources
+E:\Guardar Aqui\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.exe.config
+E:\Guardar Aqui\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.exe
+E:\Guardar Aqui\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.xml
+E:\Guardar Aqui\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb
+E:\Guardar Aqui\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.exe
+E:\Guardar Aqui\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.pdb
+E:\Guardar Aqui\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.xml
+E:\Guardar Aqui\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.formularioinicio.resources
+E:\Guardar Aqui\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.lector.resources
+E:\Guardar Aqui\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.libros.resources
+E:\Guardar Aqui\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.libro_disponible.resources
+E:\Guardar Aqui\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.libro_donado.resources
+E:\Guardar Aqui\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.Resources.resources
+E:\Guardar Aqui\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.personal.resources
+E:\Guardar Aqui\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.personamora.resources
+E:\Guardar Aqui\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.prestamo.resources
+E:\Guardar Aqui\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.vbproj.GenerateResource.Cache
+E:\Guardar Aqui\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.cantidadlibros.resources
+C:\proyecto\proyecto\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.cantidadlibros.resources
+C:\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.cantidadlibros.resources
+C:\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.libro_disponible.resources
+C:\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.libro_donado.resources
+C:\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.personamora.resources
+C:\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.cantidadprestamo.resources
+C:\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.personalactivo.resources
+F:\Nueva carpeta (3)\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.exe.config
+F:\Nueva carpeta (3)\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.exe
+F:\Nueva carpeta (3)\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.xml
+F:\Nueva carpeta (3)\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb
+H:\BACKUP DE BIBLIOTECA\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.exe.config
+H:\BACKUP DE BIBLIOTECA\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.exe
+H:\BACKUP DE BIBLIOTECA\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.xml
+H:\BACKUP DE BIBLIOTECA\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb
+H:\BACKUP DE BIBLIOTECA\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.exe
+H:\BACKUP DE BIBLIOTECA\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.pdb
+H:\BACKUP DE BIBLIOTECA\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.xml
+H:\BACKUP DE BIBLIOTECA\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.cantidadlibros.resources
+H:\BACKUP DE BIBLIOTECA\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.cantidadprestamo.resources
+H:\BACKUP DE BIBLIOTECA\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.formularioinicio.resources
+H:\BACKUP DE BIBLIOTECA\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.lector.resources
+H:\BACKUP DE BIBLIOTECA\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.libros.resources
+H:\BACKUP DE BIBLIOTECA\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.libro_disponible.resources
+H:\BACKUP DE BIBLIOTECA\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.libro_donado.resources
+H:\BACKUP DE BIBLIOTECA\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.Resources.resources
+H:\BACKUP DE BIBLIOTECA\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.personal.resources
+H:\BACKUP DE BIBLIOTECA\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.personalactivo.resources
+H:\BACKUP DE BIBLIOTECA\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.personamora.resources
+H:\BACKUP DE BIBLIOTECA\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.prestamo.resources
+H:\BACKUP DE BIBLIOTECA\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.vbproj.GenerateResource.Cache
+D:\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.exe.config
+D:\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.exe
+D:\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.xml
+D:\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb
+C:\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.boleta.resources
+D:\Nueva carpeta\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.exe.config
+D:\Nueva carpeta\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.exe
+D:\Nueva carpeta\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.xml
+D:\Nueva carpeta\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb
+D:\Nueva carpeta\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.exe
+D:\Nueva carpeta\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.pdb
+D:\Nueva carpeta\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.xml
+D:\Nueva carpeta\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.boleta.resources
+D:\Nueva carpeta\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.cantidadlibros.resources
+D:\Nueva carpeta\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.cantidadprestamo.resources
+D:\Nueva carpeta\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.formularioinicio.resources
+D:\Nueva carpeta\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.lector.resources
+D:\Nueva carpeta\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.libros.resources
+D:\Nueva carpeta\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.libro_disponible.resources
+D:\Nueva carpeta\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.libro_donado.resources
+D:\Nueva carpeta\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.Resources.resources
+D:\Nueva carpeta\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.personal.resources
+D:\Nueva carpeta\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.personalactivo.resources
+D:\Nueva carpeta\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.personamora.resources
+D:\Nueva carpeta\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.prestamo.resources
+D:\Nueva carpeta\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.vbproj.GenerateResource.Cache
+E:\ga\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.exe.config
+E:\ga\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.exe
+E:\ga\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.xml
+E:\ga\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.pdb
+E:\ga\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.exe
+E:\ga\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.pdb
+E:\ga\BIBLIOTECA\BIBLIOTECA\bin\Debug\BIBLIOTECA.xml
+E:\ga\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.boleta.resources
+E:\ga\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.cantidadlibros.resources
+E:\ga\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.cantidadprestamo.resources
+E:\ga\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.formularioinicio.resources
+E:\ga\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.lector.resources
+E:\ga\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.libros.resources
+E:\ga\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.libro_disponible.resources
+E:\ga\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.libro_donado.resources
+E:\ga\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.Resources.resources
+E:\ga\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.personal.resources
+E:\ga\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.personalactivo.resources
+E:\ga\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.personamora.resources
+E:\ga\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.prestamo.resources
+E:\ga\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.vbproj.GenerateResource.Cache
+E:\VISUAL STUDIO\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.boleta.resources
+E:\VISUAL STUDIO\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.cantidadlibros.resources
+E:\VISUAL STUDIO\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.cantidadprestamo.resources
+E:\VISUAL STUDIO\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.libro_disponible.resources
+E:\VISUAL STUDIO\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.libro_donado.resources
+E:\VISUAL STUDIO\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.personalactivo.resources
+E:\VISUAL STUDIO\BIBLIOTECA\BIBLIOTECA\obj\Debug\BIBLIOTECA.personamora.resources
